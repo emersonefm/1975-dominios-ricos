@@ -1,8 +1,5 @@
-# 1975-dominios-ricos
-Modelando Dominios Ricos 
-
 <h1 align="center">
-    <img alt="aspnetcore" src="https://images.sympla.com.br/5d113a45ad234-lg.png" width="200px" />
+    <img alt="aspnetcore" src="https://img-a.udemycdn.com/course/240x135/1442950_7060_5.jpg" width="200px" />
 </h1>
 
 <h3 align="center">
